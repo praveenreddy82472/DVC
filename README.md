@@ -29,11 +29,9 @@ touch README.md
 ```
 pip install -r requirements.txt
 ```
-
 ```
 dvc init
 ```
-
 ```
 dvc repro
 ```
@@ -45,7 +43,6 @@ dvc dag
 ```
 dvc add <file name>
 ```
-
 
 ```
 git add <file_names> && git commit -m "file added successfully
