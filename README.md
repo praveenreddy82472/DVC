@@ -1,6 +1,5 @@
 ```
 mkdir dvc
-
 ```
 
 ```
@@ -62,5 +61,4 @@ dvc push
 
 ```
 https://dvc.org/doc
-
 ```
